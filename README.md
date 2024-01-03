@@ -15,7 +15,3 @@ https://github.com/NVIDIA/NeMo
 https://huggingface.co/nvidia/parakeet-rnnt-1.1b
 
 ### 🖼 Output
-
-
-### 🏢 Sponsor
-https://modelslab.com
