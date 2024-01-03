@@ -12,7 +12,7 @@
 https://github.com/NVIDIA/NeMo
 
 ### 📦 Model
-https://huggingface.co/nvidia/parakeet-rnnt-1.1b#model-architecture
+https://huggingface.co/nvidia/parakeet-rnnt-1.1b
 
 ### 🖼 Output
 
